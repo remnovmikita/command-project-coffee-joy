@@ -1,9 +1,6 @@
 /* ===== QUALITY SECTION ===== */
-.quality {
-  padding: 64px 16px;
-}
 
-.quality .container {
+.container.quality {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,8 +14,8 @@
   align-items: center;
   justify-content: flex-start;
   width: 288px;
-
-  margin: 0 auto 32px;
+  margin: 0 auto;
+  margin-bottom: 32px;
 }
 .quality-subtitle {
   font-family: 'Quicksand', sans-serif;
