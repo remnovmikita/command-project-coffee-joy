@@ -42,7 +42,7 @@
     width: 288px;
     text-align: start;
 }
-.welcome-button {
+.welcome-location {
     display: flex;
     justify-content: center;
     gap: 12px;
@@ -61,21 +61,21 @@
     transition: background-color 300ms ease-in, box-shadow 300ms ease-in, color 300ms ease-in;
 
 }
-.welcome-button:hover,
-.welcome-button:focus,
-.welcome-button:active {
+.welcome-location:hover,
+.welcome-location:focus,
+.welcome-location:active {
     background: #e0cbb4;
     box-shadow: none;
     color: #0b0803;
 }
 
-.welcome-button:hover .welcome-button-icon,
-.welcome-button:focus .welcome-button-icon,
-.welcome-button:active .welcome-button-icon {
+.welcome-location:hover .welcome-location-icon,
+.welcome-location:focus .welcome-location-icon,
+.welcome-location:active .welcome-location-icon {
     fill: #0b0803;
 }
 
-.welcome-button-icon {
+.welcome-location-icon {
     fill: #fff;
     transition: fill 300ms ease-in;
 }
@@ -105,7 +105,7 @@
 .welcome-photo {
     max-width: 704px;
 }
-.welcome-button {
+.welcome-location {
     width: 181px;
 
 }
