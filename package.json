@@ -1,11 +1,11 @@
 {
-  "name": "project-GroupNum3",
+  "name": "commandProjectCoffeeJoy",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-GroupNum3/",
+    "build": "vite build --base=/commandProjectCoffeeJoy/",
     "preview": "vite preview"
   },
   "devDependencies": {
