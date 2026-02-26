@@ -1,11 +1,11 @@
 {
-  "name": "commandProjectCoffeeJoy",
+  "name": "command-project-coffee-joy",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/commandProjectCoffeeJoy/",
+    "build": "vite build --base=/command-project-coffee-joy/",
     "preview": "vite preview"
   },
   "devDependencies": {
